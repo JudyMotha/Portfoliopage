@@ -12,7 +12,7 @@
 * Deployed URL  https://judymotha.github.io/Portfoliopage/
 
 Screenshot &GIF files
-<img src= "./Landingpage.jpg">
+<img src= "./Landingpage.JPG">
 <img src = "./Portfoliopage.gif">
 
 
