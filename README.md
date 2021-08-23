@@ -13,5 +13,5 @@
 
 Screenshot &GIF files
 <img src = "./Portfoliopage.gif">
-<img src-"./Landingpage.
+<img src-"./Landingpage.jpeg">
 
