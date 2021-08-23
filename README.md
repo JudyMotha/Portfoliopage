@@ -1,5 +1,5 @@
 # Portfoliopage
-# My website has  3  components 
+* My website has  3  components 
 * -a homepage which contains a short description about myself and links to my Linked,Github and Resume pages
 * -a Portfolio page with few exercises  from my bootcamp journey with links to repo ,deployed url and screenshotimage 
 * -Contactform for connecting
