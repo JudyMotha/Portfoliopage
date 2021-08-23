@@ -6,8 +6,8 @@
 * You can toggle between all 3 pages and tabs
 * Portfolio page work assignments  has been updated on Github as per HW requirements criteria with short description of the work ,various url /links needed for navigation ,screenshots and gif files .
 * Avatar /pics provided where necessary .Few  repositories have been pinned!
-* Color palette coordinated .
 * Gvoice# &email provided
+* Color palette coordination and filenaming convention were the challenging (Had to rename my connect file as contact-Connect may be reserve word)
 
 * GH Source page:https://github.com/JudyMotha/Portfoliopage
 * Deployed URL  https://judymotha.github.io/Portfoliopage/
