@@ -8,3 +8,4 @@
 * Avatar /pics provided where necessary .Few  repositories have been pinned!
 
 https://github.com/JudyMotha/Portfoliopage
+Deployed URL  https://judymotha.github.io/Portfoliopage/
