@@ -1,0 +1,60 @@
+/**
+ *{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}**/
+
+
+body {
+   
+   background-image:url("pawel-czerwinski-ZMV3zzDpZao-unsplash.jpg") ;
+  }
+
+  .jumbotron {
+    background-color:white ;
+   
+   }
+    
+  /*just for name*/
+  .nav-bar-name-background {
+    font-size: 20pt;
+    font-weight: bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px;
+    color: black
+    }
+
+    
+   /*index.html picture placeholder styling*/ 
+  
+  .myimagealternate {
+    height: 225px;
+    width: 225px;
+    float: right;
+     }
+  
+  /*Portfolio html Starts*/
+  /* card measures */
+  .card {
+    margin: 30px;
+    
+  }
+  /*Card body,card text git repository and deployed link  styling- Font and color plaette in each card */
+  .card-body {
+    background-color:gray ; 
+  }
+  
+  .card-title {
+    color: white;
+    font-size: 15px;
+    font-weight:400;
+   
+  }
+  
+  .giturl,.deployedurl {
+    color:white;
+     }
+   
+  
+  
