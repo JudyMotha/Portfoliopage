@@ -9,7 +9,6 @@
 * Gvoice# &email provided'
 
 * GH Source page:https://github.com/JudyMotha/Portfoliopage
-* Deployed URL  https://judymotha.github.io/Portfoliopage/
 
 
 
